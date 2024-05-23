@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=3.3V Pin=C4-1
+Removed Pin From Net: NetName=GND Pin=C4-2
+Removed Member From Class: ClassName=Sheet1 Member=C4
+Added Member To Class: ClassName=Sheet1 Member=Component J1 HTSW-108-07-G-S
