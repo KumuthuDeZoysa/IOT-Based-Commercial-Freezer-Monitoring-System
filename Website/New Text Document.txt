@@ -1,0 +1,31 @@
+AIzaSyAISj-j0d-SpvU3-Je0oQELicW9p9yXckc
+
+https://esp-firebase-demo-e5932-default-rtdb.asia-southeast1.firebasedatabase.app/
+
+email- spramidu@gmail.com
+pass - 200126200522
+
+
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyAISj-j0d-SpvU3-Je0oQELicW9p9yXckc",
+  authDomain: "esp-firebase-demo-e5932.firebaseapp.com",
+  databaseURL: "https://esp-firebase-demo-e5932-default-rtdb.asia-southeast1.firebasedatabase.app",
+  projectId: "esp-firebase-demo-e5932",
+  storageBucket: "esp-firebase-demo-e5932.appspot.com",
+  messagingSenderId: "609899035671",
+  appId: "1:609899035671:web:66b5765eb460eaea1e3052"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+
+
+Project Console: https://console.firebase.google.com/project/esp-firebase-demo-e5932/overview
+Hosting URL: https://esp-firebase-demo-e5932.web.app
