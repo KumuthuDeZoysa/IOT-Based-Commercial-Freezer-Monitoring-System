@@ -1,0 +1,14 @@
+Change Component Footprint: Designator=J1 Old Footprint=SHDR6W50P0X200_1X6_1390X450X600P New Footprint=FP-B6B-PH-K-K_LF_SN-MFG
+Change Component Comment : Designator=J1 Old Comment=B6B-PH-K-S_LF__SN_ New Comment=B6B-PH-K-K(LF)(SN)
+Change Managed Component Library Link : Designator=J1 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=CCC70A6A-45E4-4DB5-B30C-8E04FE511D79 Old RevisionGUID= New RevisionGUID=2DBD3C03-2D07-409F-B538-426AD51CE054
+Change component parameters: Designator = "J1" ("J1"); Footprint = "SHDR6W50P0X200_1X6_1390X450X600P"; UniqueID = "\IXMMXTPU" ("\IXMMXTPU")
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Added Component: Designator=J3(FP-B6B-PH-K-K_LF_SN-MFG)
+Add component (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO15 Pin=IC1-8
+Added Pin To Net: NetName=RX Pin=J3-2
+Added Pin To Net: NetName=TX Pin=J3-3
+Added Pin To Net: NetName=IO15 Pin=J3-4
+Added Pin To Net: NetName=IO0 Pin=J3-5
+Added Pin To Net: NetName=EN Pin=J3-6
+Added Member To Class: ClassName=Sheet1 Member=Component J3 B6B-PH-K-K(LF)(SN)

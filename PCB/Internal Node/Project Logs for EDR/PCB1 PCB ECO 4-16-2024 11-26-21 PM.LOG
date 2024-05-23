@@ -1,0 +1,18 @@
+Added Component: Designator=J?(JST-B2B-PH-K-S_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=SCL Pin=IC1-17
+Added Pin To Net: NetName=SCL Pin=J?-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC1-12
+Added Pin To Net: NetName=SDA Pin=J?-2
+Added Net: Name=SDA
+Added Member To Class: ClassName=Sheet1 Member=Component C4 22uF
+Added Member To Class: ClassName=Sheet1 Member=Component J? B2B-PH-K-S(LF)(SN)

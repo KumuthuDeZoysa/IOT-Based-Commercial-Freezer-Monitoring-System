@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=GND Pin=IC1-1
+Removed Pin From Net: NetName=VCC Pin=IC1-2
+Removed Pin From Net: NetName=EN Pin=IC1-3
+Removed Pin From Net: NetName=IO0 Pin=IC1-26
+Removed Pin From Net: NetName=SDO Pin=IC1-28
+Removed Pin From Net: NetName=SCK Pin=IC1-29
+Removed Pin From Net: NetName=SDI Pin=IC1-30
+Removed Pin From Net: NetName=CS Pin=IC1-34
+Removed Pin From Net: NetName=RX Pin=IC1-36
+Removed Pin From Net: NetName=TX Pin=IC1-37
+Removed Pin From Net: NetName=GND Pin=IC1-40
+Removed Pin From Net: NetName=GND Pin=IC1-41
+Removed Pin From Net: NetName=GND Pin=IC1-42
+Removed Pin From Net: NetName=GND Pin=IC1-43
+Removed Pin From Net: NetName=GND Pin=IC1-44
+Removed Pin From Net: NetName=GND Pin=IC1-45
+Removed Pin From Net: NetName=GND Pin=IC1-46
+Removed Pin From Net: NetName=GND Pin=IC1-47
+Removed Pin From Net: NetName=GND Pin=IC1-48
+Removed Pin From Net: NetName=GND Pin=IC1-49
+Added Component: Designator=IC?(ESP32S3WROOM1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Espressif_ESP32_S3_WROOM_1_1U_Preliminary.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-S3-WROOM-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J2(JST-B2B-PH-K-S_V)
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://datasheet.octopart.com/B2B-PH-K-S%28LF%29%28SN%29-JST-datasheet-8324864.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "Nov-08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "JST"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.jst.com/home2.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "No of Positions"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Style/Orientation"; Value = "StraightHeader/Plug"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Crimp"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "ShroudedHeader"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=IC?-1
+Added Pin To Net: NetName=VCC Pin=IC?-2
+Added Pin To Net: NetName=EN Pin=IC?-3
+Added Pin To Net: NetName=IO0 Pin=IC?-26
+Added Pin To Net: NetName=SDO Pin=IC?-28
+Added Pin To Net: NetName=SCK Pin=IC?-29
+Added Pin To Net: NetName=SDI Pin=IC?-30
+Added Pin To Net: NetName=CS Pin=IC?-34
+Added Pin To Net: NetName=RX Pin=IC?-36
+Added Pin To Net: NetName=TX Pin=IC?-37
+Added Pin To Net: NetName=GND Pin=IC?-40
+Added Pin To Net: NetName=GND Pin=IC?-41
+Added Pin To Net: NetName=GND Pin=IC?-42
+Added Pin To Net: NetName=GND Pin=IC?-43
+Added Pin To Net: NetName=GND Pin=IC?-44
+Added Pin To Net: NetName=GND Pin=IC?-45
+Added Pin To Net: NetName=GND Pin=IC?-46
+Added Pin To Net: NetName=GND Pin=IC?-47
+Added Pin To Net: NetName=GND Pin=IC?-48
+Added Pin To Net: NetName=GND Pin=IC?-49
+Added Pin To Net: NetName=SCL Pin=IC?-17
+Added Pin To Net: NetName=SCL Pin=J2-1
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=IC?-12
+Added Pin To Net: NetName=SDA Pin=J2-2
+Added Net: Name=SDA
+Added Member To Class: ClassName=Sheet1 Member=Component IC? ESP32-S3-WROOM-1
+Added Member To Class: ClassName=Sheet1 Member=Component J2 B2B-PH-K-S(LF)(SN)
