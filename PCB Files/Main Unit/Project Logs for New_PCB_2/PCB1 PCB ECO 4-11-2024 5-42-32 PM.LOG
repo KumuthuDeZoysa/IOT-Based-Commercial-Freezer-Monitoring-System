@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=SIM_TX Pin=IC1-19
+Removed Pin From Net: NetName=SIM_RX Pin=IC1-20
+Added Pin To Net: NetName=SIM_RX Pin=IC1-19
+Added Pin To Net: NetName=SIM_TX Pin=IC1-20

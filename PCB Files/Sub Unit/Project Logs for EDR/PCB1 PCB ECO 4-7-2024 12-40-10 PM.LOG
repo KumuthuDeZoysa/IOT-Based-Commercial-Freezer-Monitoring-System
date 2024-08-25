@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=EN Pin=P1-1
+Removed Pin From Net: NetName=IO0 Pin=P1-2
+Removed Pin From Net: NetName=IO15 Pin=P1-3
+Removed Pin From Net: NetName=TX Pin=P1-4
+Removed Pin From Net: NetName=RX Pin=P1-5
+Removed Member From Class: ClassName=Sheet1 Member=P1
+Add Component: Footprint Not Found SHDR6W50P0X200_1X6_1390X450X600P
+Add Pin To Net: Unknown Pin: Pin J?-1
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin J?-5
+Add Class Member: Failed to add class member : Component J? B6B-PH-K-S_LF__SN_

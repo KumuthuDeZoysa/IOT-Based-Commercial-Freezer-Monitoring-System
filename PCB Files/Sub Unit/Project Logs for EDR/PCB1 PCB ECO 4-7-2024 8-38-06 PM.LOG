@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=C1 Old Footprint=FP-GRM31M-0_15-IPC_A New Footprint=CAPC1608X90X35ML15T15
+Change Component Footprint: Designator=C2 Old Footprint=FP-GRM31M-0_15-IPC_A New Footprint=CAPC1608X90X35ML15T15
+Change Component Comment : Designator=C1 Old Comment=GRM31M1X1H104JA01L New Comment=100nF
+Change Component Comment : Designator=C2 Old Comment=GRM31M1X1H104JA01L New Comment=100nF
+Change Managed Component Library Link : Designator=C1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A35CC751-7FE4-4A22-ADC8-A6B9578B1571 New ItemGUID=5283F16A-2A7B-4060-9AAC-ABEAAB1611AA Old RevisionGUID=097F0AC9-7FBE-4A68-89F9-4B412EB0BACD New RevisionGUID=184AFDA0-AB92-44C9-B29E-206A760F7CA5
+Change Managed Component Library Link : Designator=C2 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=A35CC751-7FE4-4A22-ADC8-A6B9578B1571 New ItemGUID=5283F16A-2A7B-4060-9AAC-ABEAAB1611AA Old RevisionGUID=097F0AC9-7FBE-4A68-89F9-4B412EB0BACD New RevisionGUID=184AFDA0-AB92-44C9-B29E-206A760F7CA5
+Change component parameters: Designator = "C1" ("C1"); Footprint = "FP-GRM31M-0_15-IPC_A"; UniqueID = "\LKTGLHBD" ("\LKTGLHBD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "FP-GRM31M-0_15-IPC_A"; UniqueID = "\OONTCZTF" ("\OONTCZTF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "0603YC104KAZ2A"; VariantName = "[No Variations]"

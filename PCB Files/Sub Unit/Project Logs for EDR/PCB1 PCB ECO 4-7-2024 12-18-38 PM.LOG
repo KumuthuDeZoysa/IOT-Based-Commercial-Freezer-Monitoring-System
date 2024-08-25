@@ -1,0 +1,7 @@
+Add Component: Footprint Not Found SHDR6W50P0X200_1X6_1390X450X600P
+Added Pin To Net: NetName=EN Pin=J1-1
+Added Pin To Net: NetName=IO0 Pin=J1-2
+Added Pin To Net: NetName=IO15 Pin=J1-3
+Added Pin To Net: NetName=TX Pin=J1-4
+Added Pin To Net: NetName=RX Pin=J1-5
+Added Member To Class: ClassName=Sheet1 Member=Component J1 B6B-PH-K-S_LF__SN_

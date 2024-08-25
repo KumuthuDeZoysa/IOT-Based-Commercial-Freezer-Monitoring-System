@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=IO0 Pin=J3-5
+Removed Pin From Net: NetName=EN Pin=J3-6
+Change Component Footprint: Designator=IC1 Old Footprint=ESP32S3WROOM1 New Footprint=ESP32S3WROOM1N8R2
+Change Component Footprint: Designator=J3 Old Footprint=FP-B6B-PH-K-K_LF_SN-MFG New Footprint=HDRV6W66P0X254_1X6_1524X249X838P
+Change Component Comment : Designator=J3 Old Comment=B6B-PH-K-K(LF)(SN) New Comment=22-28-4060
+Change Component Comment : Designator=IC1 Old Comment=ESP32-S3-WROOM-1 New Comment=ESP32-S3-WROOM-1-N8
+Change Managed Component Library Link : Designator=J3 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=CCC70A6A-45E4-4DB5-B30C-8E04FE511D79 New ItemGUID= Old RevisionGUID=2DBD3C03-2D07-409F-B538-426AD51CE054 New RevisionGUID=
+Change component parameters: Designator = "IC1" ("IC1"); Footprint = "ESP32S3WROOM1"; UniqueID = "\PUQLMPDW" ("\PUQLMPDW")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-1_wroom-1u_datasheet_en.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-S3-WROOM-1-N8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "356-ESP32-S3WROOM1N8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Espressif-Systems/ESP32-S3-WROOM-1-N8?qs=Wj%2FVkw3K%252BMC1mq0KGPvoSQ%3D%3D"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J3" ("J3"); Footprint = "FP-B6B-PH-K-K_LF_SN-MFG"; UniqueID = "\XZKTKFJN" ("\XZKTKFJN")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.molex.com/pdm_docs/sd/022284060_sd.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "8.38mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Molex"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "22-28-4060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "538-22-28-4060"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Molex/22-28-4060?qs=d9fIA1aNikSACgwI0d%252BTOw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=IO0 Pin=J3-4
+Added Pin To Net: NetName=EN Pin=J3-5
+Added Pin To Net: NetName=GND Pin=J3-6

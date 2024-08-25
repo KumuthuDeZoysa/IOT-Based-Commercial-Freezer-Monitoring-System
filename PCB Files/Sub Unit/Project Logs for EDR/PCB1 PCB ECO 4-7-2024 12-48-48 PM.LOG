@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=EN Pin=IC1-3
+Add Component: Footprint Not Found SHDR6W50P0X200_1X6_1390X450X600P
+Add Pin To Net: Unknown Pin: Pin J?-2
+Add Pin To Net: Unknown Pin: Pin J?-3
+Add Pin To Net: Unknown Pin: Pin J?-4
+Add Pin To Net: Unknown Pin: Pin J?-5
+Change Net Name : Old Net Name=EN New Net Name=VCC
+Added Pin To Net: NetName=EN Pin=C3-2
+Added Pin To Net: NetName=EN Pin=IC1-3
+Added Pin To Net: NetName=EN Pin=R1-1
+Added Net: Name=EN
+Add Class Member: Failed to add class member : Component J? B6B-PH-K-S_LF__SN_

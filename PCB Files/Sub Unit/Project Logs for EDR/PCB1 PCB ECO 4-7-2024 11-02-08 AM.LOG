@@ -1,0 +1,49 @@
+Added Component: Designator=BT1(BAT_1128)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1128/Keystone+Electronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Keystone Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "1128"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/1128/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1128/Keystone+Electronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(ESP32S3WROOM1)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.mouser.com/catalog/specsheets/Espressif_ESP32_S3_WROOM_1_1U_Preliminary.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "3.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Espressif Systems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "ESP32-S3-WROOM-1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add Component: Footprint Not Found SAMTEC_TMM-106-01-TM-S
+Added Pin To Net: NetName=GND Pin=BT1-N
+Added Pin To Net: NetName=EN Pin=BT1-P
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=EN Pin=IC1-2
+Added Pin To Net: NetName=EN Pin=IC1-3
+Added Pin To Net: NetName=SDA Pin=IC1-12
+Added Pin To Net: NetName=SCL Pin=IC1-17
+Added Pin To Net: NetName=IO0 Pin=IC1-26
+Added Pin To Net: NetName=SDO Pin=IC1-28
+Added Pin To Net: NetName=SCK Pin=IC1-29
+Added Pin To Net: NetName=SDI Pin=IC1-30
+Added Pin To Net: NetName=CS Pin=IC1-34
+Added Pin To Net: NetName=RX Pin=IC1-36
+Added Pin To Net: NetName=TX Pin=IC1-37
+Added Pin To Net: NetName=GND Pin=IC1-40
+Added Pin To Net: NetName=GND Pin=IC1-41
+Added Pin To Net: NetName=GND Pin=IC1-42
+Added Pin To Net: NetName=GND Pin=IC1-43
+Added Pin To Net: NetName=GND Pin=IC1-44
+Added Pin To Net: NetName=GND Pin=IC1-45
+Added Pin To Net: NetName=GND Pin=IC1-46
+Added Pin To Net: NetName=GND Pin=IC1-47
+Added Pin To Net: NetName=GND Pin=IC1-48
+Added Pin To Net: NetName=GND Pin=IC1-49
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-2
+Added Member To Class: ClassName=Sheet1 Member=Component BT1 1128
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 ESP32-S3-WROOM-1
+Add Class Member: Failed to add class member : Component J1 TMM-106-01-TM-S
